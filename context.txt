@@ -1,5 +1,0 @@
-=============== PRUEBAS Git / GitHub ================
-
-- Descripcion : Actualizacion 9 diciembre
-
-- Token de autenticacion : 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
