@@ -2,6 +2,6 @@
 
 - Descripcion : Actualizacion 13 diciembre
 
-- Token de autenticacion : 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	
+- Token de autenticacion : ghp_MDJUAuSCxPkoxfTm0cjcndUldDiw7d0HVSU	
 
 - SSH KEY : Si
