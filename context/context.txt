@@ -1,7 +1,7 @@
 ================ PRUEBAS Git / GitHub =================
 
-- Descripcion : Actualizacion 13 diciembre
+- Descripcion : Actualizacion 14 diciembre
 
-- Token de autenticacion : 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	
+- Token de autenticacion : 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	
 
 - SSH KEY : Si
