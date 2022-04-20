@@ -2,6 +2,10 @@
 
 - Descripcion : Actualizacion 14 diciembre
 
+<<<<<<< HEAD
 - Token de autenticacion : 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	
+=======
+- Token de autenticacion : ghp_MDJUAuSCxPkoxfTm0cjcndUldDiw7d0HVSU	
+>>>>>>> 1fe8b4900e8ee7f085f1cdb1d389ab6e3c856dc4
 
 - SSH KEY : Si
